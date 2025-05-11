@@ -1,7 +1,8 @@
 
 # Hello! I’m Jamie!
 
-![IMG_1454](https://github.com/user-attachments/assets/ee11e198-e785-4dea-8bb9-b0b7dca9c910)
+![IMG_1857](https://github.com/user-attachments/assets/106b5007-39bd-4476-ae4f-5795d262e782)
+
 
 I’m currently seeking summer internships in Software Engineering, Machine Learning, and Data Science.
 
